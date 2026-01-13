@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.2] - 2026-01-13
 
+## Updated
+- Updated CHANGELOG.md format.
+
+## [1.0.2] - 2026-01-13
+
 ### Fixed
 - Fixed Angle brackets will be interpreted as HTML.
 

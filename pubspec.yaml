@@ -1,6 +1,6 @@
 name: pos_printer_d
 description: A clean Flutter plugin for POS thermal printers. Supports Bluetooth, USB, and Network (TCP) connections with a simple unified API.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/alexdlov/pos_printer
 repository: https://github.com/alexdlov/pos_printer
 issue_tracker: https://github.com/alexdlov/pos_printer/issues
