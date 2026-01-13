@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pos_printer/pos_printer.dart';
+import 'package:pos_printer_d/pos_printer_d.dart';
 import 'package:pos_printer_example/printer/screen/printer_setting_screen.dart';
 import 'package:pos_printer_example/printer/service/printer_local_service.dart';
 import 'package:pos_printer_example/printer/service/printer_repository.dart';

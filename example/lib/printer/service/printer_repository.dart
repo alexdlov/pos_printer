@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:pos_printer/pos_printer.dart';
+import 'package:pos_printer_d/pos_printer_d.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// Repository for saving printer settings.

@@ -1,4 +1,4 @@
-# POS Printer
+# POS Printer D
 
 A clean Flutter plugin for POS thermal printers. Supports Bluetooth, USB, and Network (TCP) connections.
 
@@ -19,7 +19,14 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  pos_printer:
+  pos_printer_d: ^1.0.0
+```
+
+Or from Git:
+
+```yaml
+dependencies:
+  pos_printer_d:
     git:
       url: https://github.com/alexdlov/pos_printer.git
 ```
@@ -27,7 +34,7 @@ dependencies:
 ## Quick Start
 
 ```dart
-import 'package:pos_printer/pos_printer.dart';
+import 'package:pos_printer_d/pos_printer_d.dart';
 
 // Get the service instance
 final printerService = PrinterService.instance;

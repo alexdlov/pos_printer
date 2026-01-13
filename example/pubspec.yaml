@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pos_printer:
+  pos_printer_d:
     path: ../
   esc_pos_utils: ^1.1.0
   shared_preferences: ^2.5.4

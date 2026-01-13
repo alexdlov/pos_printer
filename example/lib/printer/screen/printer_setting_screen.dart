@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:pos_printer/pos_printer.dart';
+import 'package:pos_printer_d/pos_printer_d.dart';
 import 'package:pos_printer_example/common/widgets/scafold_message/scf_message.dart';
 import 'package:pos_printer_example/main.dart';
 

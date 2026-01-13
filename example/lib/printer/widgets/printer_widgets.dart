@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pos_printer/pos_printer.dart';
+import 'package:pos_printer_d/pos_printer_d.dart';
 
 /// Printer operation status.
 enum PrinterStatus { idle, connecting, printing, error, success }

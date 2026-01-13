@@ -3,7 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  pos_printer
+  pos_printer_d
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

@@ -5,6 +5,8 @@
 /// ## Usage
 ///
 /// ```dart
+/// import 'package:pos_printer_d/pos_printer_d.dart';
+///
 /// // Get the printer service instance
 /// final printerService = PrinterService.instance;
 ///
@@ -22,7 +24,7 @@
 /// // Disconnect
 /// await printerService.disconnect();
 /// ```
-library pos_printer;
+library pos_printer_d;
 
 // Models
 export 'src/models/printer_device.dart';
