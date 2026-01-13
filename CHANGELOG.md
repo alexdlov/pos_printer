@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2026-01-13
+
+### Changed
+- Updated network_info_plus to ^7.0.0
+
 ## [1.0.0] - 2026-01-13
 
 ### Added
