@@ -1,0 +1,24 @@
+name: pos_printer_example
+description: Example application for pos_printer package.
+publish_to: 'none'
+
+version: 1.0.0
+
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pos_printer:
+    path: ../
+  esc_pos_utils: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+name: pos_printer
+description: A clean Flutter plugin for POS thermal printers. Supports Bluetooth, USB, and Network connections.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  rxdart: ^0.28.0
+  network_info_plus: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.pos_printer
+        pluginClass: PosPrinterPlugin
+      ios:
+        pluginClass: PosPrinterPlugin
+      windows:
+        pluginClass: PosPrinterPluginCApi
