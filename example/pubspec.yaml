@@ -14,6 +14,7 @@ dependencies:
   pos_printer:
     path: ../
   esc_pos_utils: ^1.1.0
+  shared_preferences: ^2.5.4
 
 dev_dependencies:
   flutter_test:
