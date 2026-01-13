@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   rxdart: ^0.28.0
-  network_info_plus: ^6.0.1
+  network_info_plus: ^7.0.0
 
 dev_dependencies:
   flutter_test:
