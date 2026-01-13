@@ -251,7 +251,7 @@ class PrinterService {
     return _getConnector(_currentType!).send(bytes);
   }
 
-  /// Send raw bytes as List<int> (convenience method).
+  /// Send raw bytes as List < int > (convenience method).
   Future<bool> sendBytes(List<int> bytes) => send(Uint8List.fromList(bytes));
 
   /// Send text string (encoded as UTF-8 bytes).
