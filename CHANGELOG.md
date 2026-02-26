@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2026-02-26
+
+### Added
+- Added pub.dev, Dart, Flutter, and License badges to README
+
+## [1.0.3] - 2026-01-13
+
+### Fixed
+- Minor fixes and improvements
+
 ## [1.0.2] - 2026-01-13
 
 ## Updated

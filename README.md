@@ -1,5 +1,10 @@
 # POS Printer D
 
+[![pub package](https://img.shields.io/pub/v/pos_printer_d.svg)](https://pub.dev/packages/pos_printer_d)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A clean Flutter plugin for POS thermal printers. Supports Bluetooth, USB, and Network (TCP) connections.
 
 Reference - flutter_pos_printer_platform
